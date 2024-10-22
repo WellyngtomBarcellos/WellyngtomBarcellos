@@ -49,5 +49,7 @@
 ### 🏆 Achievements
 
 <div align="center">
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=wellyngtombarcellos&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=15)
+  <a href="#">
+    <img src="https://github-profile-trophy.vercel.app/?username=wellyngtombarcellos&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=15" alt="GitHub Stats" />
+  </a>
 </div>
