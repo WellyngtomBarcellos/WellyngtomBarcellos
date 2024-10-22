@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Seu Nome]!
+# 👋 Hello World!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=32A852&width=435&lines=Software+Engineer;Full-Stack+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
 
@@ -39,10 +39,10 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wellyngtombarcellos&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellyngtombarcellos&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </div>
 
