@@ -41,9 +41,6 @@
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=wellyngtombarcellos&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellyngtombarcellos&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
 </div>
 
 
@@ -51,5 +48,6 @@
 
 ### 🏆 Achievements
 
+<div align="center">
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=wellyngtombarcellos&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=15)
-
+</div>
