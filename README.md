@@ -23,7 +23,7 @@
 
 #### **Backend:**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Mysql](https://img.shields.io/badge/-React-f9ff4a?style=flat-square&logo=mysql&logoColor=000)
+![Mysql](https://img.shields.io/badge/-Mysql-f9ff4a?style=flat-square&logo=mysql&logoColor=000)
 ![Php](https://img.shields.io/badge/-PHP-110af2?style=flat-square&logo=Php&logoColor=fff)
 
 #### **Tools & Technologies:**
