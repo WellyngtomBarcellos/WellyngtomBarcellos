@@ -46,29 +46,10 @@
   </a>
 </div>
 
----
-
-### 🚀 Projects
-
-- **[Project 1](https://github.com/seu-usuario/projeto1)**: Um projeto incrível que resolve [problema específico].
-- **[Project 2](https://github.com/seu-usuario/projeto2)**: Uma aplicação inovadora para [descrição do projeto].
-- **[Project 3](https://github.com/seu-usuario/projeto3)**: Uma solução criativa para [problema resolvido].
-
----
-
-### 📫 Let's Connect!
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-usuario/)](https://www.linkedin.com/in/seu-usuario/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu-email@gmail.com)](mailto:seu-email@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-242424?style=flat-square&logo=firefox&logoColor=white&link=https://seu-portfolio.com)](https://seu-portfolio.com)
 
 ---
 
 ### 🏆 Achievements
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=15)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=wellyngtombarcellos&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=15)
 
----
-
-### 🔧 Currently Working On:
-- [Projeto Atual](https://github.com/seu-usuario/projeto-atual): Desenvolvendo uma plataforma inovadora de [descrição do projeto].
