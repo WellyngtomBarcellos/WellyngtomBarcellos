@@ -7,7 +7,7 @@
 ### 🌟 About Me
 - 💻 Passionate **Full-Stack Developer** always learning new technologies.
 - 🚀 Experienced in creating scalable web applications and complex problem-solving.
-- 🔥 Enthusiast in **JavaScript**, **Node.js**, **React**, and more.
+- 🔥 Enthusiast in **JavaScript**, **Node.js**, **React**,, **Laravel** and more.
 - 🌐 Love contributing to **Open Source** and building cool projects.
 - 📚 Lifelong learner, always looking to expand my knowledge.
 
