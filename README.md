@@ -1,6 +1,8 @@
 # 👋 Modia <3
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&size=32&pause=1000&color=e5e5e5&width=435&lines=Pobre;Calvo;Fudido)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&size=32&pause=1000&color=e5e5e5&width=435&lines=Calvo;Pobre;Fudido)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&size=32&pause=1000&color=e5e5e5&width=435&lines=Fudido;Calvo;Pobre)](https://git.io/typing-svg)
 
 ---
 
