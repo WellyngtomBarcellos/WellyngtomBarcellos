@@ -9,7 +9,7 @@
 
 ---
  ### 🛠️ Stack
-[![🛠️ Stack](https://skillicons.dev/icons?i=js,html,css,php,laravel,mysql,nodejs)](https://skillicons.dev)
+[![🛠️ Stack](https://skillicons.dev/icons?i=py,js,html,css,php,laravel,mysql,nodejs)](https://skillicons.dev)
 
 
 #### **Technologies:**
