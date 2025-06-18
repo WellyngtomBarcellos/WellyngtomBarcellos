@@ -8,8 +8,8 @@
 - 🔥 Empreendedor e fã número 1 de tecnologia.
 
 ---
-
-### 🛠️ Stack
+ 
+[![🛠️ Stack](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 #### **Backend:**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
