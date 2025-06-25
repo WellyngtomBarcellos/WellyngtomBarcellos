@@ -13,4 +13,4 @@
 
 
 #### **Technologies:**
-[![🛠️ Stack](https://skillicons.dev/icons?i=git,docker,figma,react,vite,jquery)](https://skillicons.dev)
+[![🛠️ Stack](https://skillicons.dev/icons?i=git,figma,react,vite,jquery)](https://skillicons.dev)
