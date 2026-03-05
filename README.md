@@ -42,6 +42,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/wellyngtombarcellos/wellyngtombarcellos/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/wellyngtombarcellos/wellyngtombarcellos/blob/output/github-contribution-grid-snake.svg)
 
 ###
