@@ -1,7 +1,9 @@
 <h1 align="center">Sou Wellyngtom </h1>
-
+<div align="center">
+  
 ![](https://komarev.com/ghpvc/?username=wellyngtombarcellosR&color=blue) 
 
+</div>
 ###
 
 <div align="center">
