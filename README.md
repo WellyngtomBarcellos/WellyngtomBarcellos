@@ -30,7 +30,7 @@
 
 
 ###
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=transparent" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=wellyngtombarcellos&theme=transparent" alt="GitHub Streak" /></a>
 ###
 
 <img src="https://raw.githubusercontent.com/wellyngtombarcellos/wellyngtombarcellos/output/snake.svg" alt="Snake animation" />
