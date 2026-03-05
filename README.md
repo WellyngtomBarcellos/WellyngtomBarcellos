@@ -43,8 +43,8 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.deezegg.com/assets/github-user-contribution.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.deezegg.com/assets/github-user-contribution.svgg" />
   <img alt="github-snake" src="https://cdn.deezegg.com/assets/github-user-contribution.svg" />
 </picture>
 
