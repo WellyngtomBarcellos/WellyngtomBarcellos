@@ -7,10 +7,9 @@
 
 <div align="center">
   <img src="https://deezegg.com/assets/img/Logo_main.png" height="60" alt="deez-logo"/>
-  <img width="12" />
 </div>
 
-
+###
 <div align="center">
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
   <img width="12" />
