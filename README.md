@@ -29,6 +29,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=golang" height="60" alt="laravel logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
