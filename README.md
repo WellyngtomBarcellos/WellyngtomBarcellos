@@ -45,9 +45,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=wellyngtombarcellos&theme=transparent" alt="GitHub Streak" /></a>
-</div>
+
 
 
 
