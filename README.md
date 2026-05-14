@@ -6,9 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://deezegg.com/assets/img/Logo_main.png" height="75" alt="deez-logo"/>
-  <img width="12" />
-  <img src="https://deezegg.com/assets/img/ambarks-logo.png" height="80" alt="ambarks logo"  />
+  <img src="https://i.ibb.co/1GnQZWKH/Sem-T-tulo-1-copiar.png" alt="deez-logo"/>
 </div>
 
 ###
