@@ -46,13 +46,6 @@
 ###
 
 
-
-
-
-
-Crie um README.md mais bonito que isso
-em Ingles 
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.deezegg.com/assets/github-user-contribution.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.deezegg.com/assets/github-user-contribution.svgg" />
